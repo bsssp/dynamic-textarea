@@ -1,0 +1,19 @@
+{
+  "name": "dynamic-textarea",
+  "version": "1.0.0",
+  "description": "A Function to insert text into a textarea on cursor position.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsssp/dynamic-textarea.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bsssp/dynamic-textarea/issues"
+  },
+  "homepage": "https://github.com/bsssp/dynamic-textarea#readme"
+}
